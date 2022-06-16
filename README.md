@@ -7,6 +7,8 @@ Module One Challenge
 ### Analysis of Outcomes Based on Launch Date
 #### When looking at the outcomes based on launch date we are taking data and categorizing it in a pivot table to allow us to filter the data by different outputs including the parent category, in this chart it is 'Theater'. When filtering we can select one or multiple categories to allow us to analyze the data that is pertaining to what our client, Louise, is looking for. The way this data has been filtered also has the date launched as a month category and breaks the data into how many kickstarters were successful, failed or canceled and totals the sum of each kickstater launched by month. This information was then turned into a line chart to reflect the data that is in the pivot table in an easier way to read graphic. The x-axis is representing the months and the y-axis represents the amount of campaigns launched. There are three different lines showing successful, failed and canceled. Please see below for the final line chart.
 
+![Theater_Outcomes_vs_Launch](https://github.com/walzfran/Kickstarter-Analysis/blob/main/Theater_Outcomes_vs_Launch.png)
+
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/106924615/173468381-8c36057d-4cd0-4cff-bd41-97fcd4a1fcb9.png)
 
 ### Analysis of Outcomes Based on Goals
