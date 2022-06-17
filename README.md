@@ -49,4 +49,13 @@ Module One Challenge
 
 #### What are some limitations of this dataset?
 
-* Above I explained that the final line chart that we made for the Outcomes Based on Goals did have limitation in showing some context for the viewer
+* Above I explained that the final line chart that we made for the Outcomes Based on Goals did have limitation in showing some context for the viewer I would go about it by adding the number of kickstarters to help show more of a range of information so that you can better understand the success/fail percentage that we calculated. 
+* Another limitation that the whole data set has is a bit of background information, the blurb is helpful but to truly analyze the data I feel that it would be helpful to have an end goal of what kickstarter is trying to accomplish 
+        - Like with plays, is is a small scale production?, is it for broadway?
+        - Is this the only funding source? 
+* I also think it would be helfpul if we ran analysis to provide Louise information on how many people contributed to the kickstarters and how that compares to it being successful or failed 
+
+#### What are some other possible tables and/or graphs that we could create?
+
+* 
+
