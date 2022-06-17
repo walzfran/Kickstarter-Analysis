@@ -57,5 +57,6 @@ Module One Challenge
 
 #### What are some other possible tables and/or graphs that we could create?
 
-* 
+* If we were to create a chart similar to the one we used to make the Outcomes Based on Goals but it was Outcomes based on Backers it could give Louise an idea of how many backers she may need to hit her goals, we could also take this a step further and see how many backers are needed for each goal range to create successful, failed or canceled kickstarters. 
+* Another thought for a table would be to base the data on the period of time the kickstarter was live. I worked with that a bit to analyze the data we used for the Outcomes based on Launch Date. Having this information alongside the launch date would help to delve deeper into why the kickstarter was or was not successful. 
 
